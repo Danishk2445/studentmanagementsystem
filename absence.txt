@@ -1,0 +1,7 @@
+====================Student's Absence=======================
+           
+		Ã¢â€”â€   1. Display Student Absences
+		Ã¢â€”â€   2. Add Student Absence
+		Ã¢â€”â€   Other Return
+
+============================================================

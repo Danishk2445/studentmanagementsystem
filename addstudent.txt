@@ -1,0 +1,7 @@
+==============================Add Student==============================
+1. The first letter of firstname and lastname must be capitalized
+2. Firstname and lastname must each have at least two letters
+3. No digit allowed in the name
+4. Student ID is 6 digits long which must start with 700
+5. Phone must be in the (xxx-xxx-xxxx) format
+6. Student major must be in CS, CYBR, SE, IT, or DS

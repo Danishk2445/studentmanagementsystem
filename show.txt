@@ -1,0 +1,8 @@
+=======================Show Student=========================
+           
+		Ã¢â€”â€   1. Show Student by ID
+		Ã¢â€”â€   2. Show Student by Name
+		Ã¢â€”â€   3. Display all students
+		Ã¢â€”â€   4. Show students by major
+
+============================================================
